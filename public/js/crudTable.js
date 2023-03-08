@@ -655,7 +655,7 @@ class CrudTable extends CRUD{
 
   makeDocTitle() {
     //can be overridden
-    return 'Julawbook-21.07';
+    return 'SmartBaby-1.0';
   }
 
   create_destroy(choice){

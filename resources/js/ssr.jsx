@@ -5,7 +5,7 @@ import createServer from '@inertiajs/server';
 import { resolvePageComponent } from 'laravel-vite-plugin/inertia-helpers';
 import route from '../../vendor/tightenco/ziggy/dist/index.m';
 
-const appName = 'Julawbook';
+const appName = 'SmartBaby';
 
 createServer((page) =>
     createInertiaApp({

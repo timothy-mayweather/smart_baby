@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title inertia>Julawbook</title>
+    <title inertia>SmartBaby</title>
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="{{ asset('interface/admin/plugins/fontawesome-free/css/all.min.css')}}">
